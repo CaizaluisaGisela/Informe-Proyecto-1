@@ -29,7 +29,7 @@ Potenciómetro
 
 EXPLICACIÓN DEL PROCEDIMIENTO. – 
 
-Para poder lograr el sistema deseado debemos empezar nombrando cada unos de nuestros elementos que previamente ya se ha mencionado su principal funcionamiento tenemos:
+Para poder lograr el sistema deseado se ddebe comenzar nombrando cada unos de los elementos que previamente ya se han mencionado su principal funcionamiento por ello se tiene:
 
 Materiales:
 
