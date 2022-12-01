@@ -74,6 +74,9 @@ Al encontrarnos con una batería de menor voltaje el circuito podría seguir fun
 ¿Podría llegar a explotar?
 
 La verdadera respuesta es, SI, puede llegar a explotar el circuito por una mala conexión, puesto que al conectarse indebidamente estaríamos dando cabida a que la energía crezca llegando a explotar, si las medidas de resistencia tampoco son las necesarias podría de igual manera encontrarnos con recalentamiento en ellas y seria peligroso porque podría ocasionar quemaduras. 
+Esto puede llegar a ser visible o no, ya que, puede llegar a partirse el led al explotar, o bien solo quemarse sin ningún cambio fisico visible
+
+![b40e8a8c-a264-4d87-a15c-5f6312ddadc3](https://user-images.githubusercontent.com/117691236/205124843-897492a2-8c63-474a-9682-3ad9efdcc37d.jpg)
 
 ¿Qué tan importante es la numeración de los elementos?
 
